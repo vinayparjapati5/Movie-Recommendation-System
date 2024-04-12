@@ -11,7 +11,7 @@ The purpose of a recommendation system basically is to search for content that w
 
 - Content-based systems, which use characteristic information and takes item attriubutes into consideration .
 
-- Twitter , Youtube .
+- Twitter , Youtube.
 
 - Which music you are listening , what singer are you watching . Form embeddings for the features .
 	
@@ -49,4 +49,4 @@ The purpose of a recommendation system basically is to search for content that w
 
 - Combination of both and used now a days .
 
-- Uses : word2vec , embedding .   
+- Uses : word2vec , embedding.
